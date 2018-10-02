@@ -1,5 +1,1 @@
-Hello I'm learning how to use git
-
-Just adding a new thing
-
-New thing again
+This is the second version
